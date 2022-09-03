@@ -1,2 +1,2 @@
 # estate
-Management estate updtaes
+Management estate update
